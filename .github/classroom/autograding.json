@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "P03 Test",
+      "setup": "./setup.sh",
+      "run": "./tests/run.sh",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
